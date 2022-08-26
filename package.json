@@ -19,5 +19,8 @@
     "sepreedsheet",
     "googlesheet"
   ],
-  "author": "Apiporn S <faithinyouuu@gmail.com>"
+  "author": "Apiporn S <faithinyouuu@gmail.com>",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

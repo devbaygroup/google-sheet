@@ -1,0 +1,23 @@
+{
+  "name": "@devbaygroup/googlesheet",
+  "version": "0.0.1",
+  "homepage": "https://github.com/devbaygroup/google-sheet#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devbaygroup/google-sheet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devbaygroup/google-sheet/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "*",
+    "**/*"
+  ],
+  "keywords": [
+    "sheet",
+    "sepreedsheet",
+    "googlesheet"
+  ],
+  "author": "Apiporn S <faithinyouuu@gmail.com>"
+}
